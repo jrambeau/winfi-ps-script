@@ -1,5 +1,11 @@
 # Powershell script to workaround the certificate issue on WinFi
-# Instructions:
+
+## Description
+
+Workaround for the "Loading" frozen screen on WinFi. This powershell script changes the date, starts WinFi and reconfigure the date.
+
+## Instructions:
+
 1. Install WinFi
 2. Copy this script winfi.ps1 in the installation folder of WinFi: C:\Program Files (x86)\Helge Keck\WinFi
 3. Copy the shortchut in the installation folder of WinFi. The shortcut is using the following command to start the script: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -noexit -ExecutionPolicy Bypass -File "C:\Program Files (x86)\Helge Keck\WinFi\winfi.ps1"

@@ -2,7 +2,7 @@
 
 ## Description
 
-Workaround for the "Loading" frozen screen on WinFi. This powershell script changes the date, starts WinFi and reconfigure the date.
+Workaround for the "Loading" frozen screen on WinFi. This powershell script changes the date of the computer, starts WinFi and resets the correct date on the computer.
 
 ## Instructions:
 
